@@ -28,6 +28,7 @@ colors:
   gray:      '#666666'
   lgray:     '#999999'
   white:     '#f8f8f8'
+  dred:      '#3f0000'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
