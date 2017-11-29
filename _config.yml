@@ -1,10 +1,6 @@
 ---
 # bundle exec jekyll serve
 
-port: 4000
-host: 127.0.0.1
-safe: false
-
 exclude:
   - .idea/
   - .gitignore
@@ -16,9 +12,8 @@ timezone: null
 lsi: false
 markdown: kramdown
 
-
 ### content configuration ###
-title:       "PRISMData"
+title:       "Temple of the Times"
 keywords:    ""
 description: ""
 source_link: ""
@@ -29,6 +24,9 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
+  dgray:     '#323232'
+  gray:      '#666666'
+  lgray:     '#999999'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
