@@ -1,1 +1,1 @@
-&copy;PRISMData.io
+&copy; Temple of the Times
